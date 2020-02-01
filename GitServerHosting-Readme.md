@@ -72,3 +72,5 @@ Go to server machine & run from terminal
 
 
 ### Setup Completed
+
+#### Thanks
